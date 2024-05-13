@@ -19,13 +19,7 @@ elif ((number2 == 0)); then
 fi
 
 
-
-sum=$((number1 + number2))
-difference=$((number1 - number2))
-product=$((number1 * number2))
-quotient=$((number1 / number2))
-
-echo "$number1 + $number2 = $sum"
-echo "$number1 - $number2 = $difference"
-echo "$number1 * $number2 = $product"
-echo "$number1 / $number2 = $quotient"
+expr $number1 + $number2
+expr $number1 - $number2
+expr $number1 \* $number2
+expr $number1 / $number2
