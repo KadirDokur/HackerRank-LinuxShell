@@ -4,5 +4,5 @@ This repository is dedicated to "Linux Shell Preparation" given under "HackerRan
 "https://www.hackerrank.com/domains/shell"
 
 
-I wanted to put my bash scripting skills to a test while I continue learning. In this regard, this repository will contain my scripts.
-Some solutions do not pass the case checks even though they work as they are requested. In this case, I will still provide my answer along with the accepted codes using comment lines
+I wanted to put my bash scripting skills to a test while I continue learning. In this regard, this repository will contain MY Personal scripts.
+Some solutions do not pass the case checks even though they work as they are requested. In this case, I will still provide my answer along with the accepted codes using comment lines.
